@@ -33,6 +33,25 @@ A defensive cybersecurity machine-learning application designed to analyze suspi
 
 ---
 
+## Screenshots
+
+### Dashboard
+![AI Phishing URL Analyzer Dashboard](screenshots/dashboard.jpeg)
+
+### Legitimate URL Analysis
+![Google Legitimate URL Analysis](screenshots/google-legitimate.jpeg)
+
+### Amazon Legitimate URL Analysis
+![Amazon Legitimate URL Analysis](screenshots/amazon-legitimate.jpeg)
+
+### Phishing Detection
+![Phishing URL Detection](screenshots/phishing-detection.jpeg)
+
+### Security Indicators
+![Security Indicators](screenshots/risk-indicators.jpeg)
+
+---
+
 ## Technology Stack
 
 - **Language**: Python 3.11+
